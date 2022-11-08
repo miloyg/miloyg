@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi I'm Milo
+- I'm a computer science and economics student
+- I'm trying to get working on a personal project this winter break to build my skills and prepare me for internships
+
+note to self: remember to have fun
 
 <!--
 **miloyg/miloyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
