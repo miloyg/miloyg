@@ -1,5 +1,5 @@
 ### Hi this is Milo
-I'm a computer science and economics student who is trying to build skills and prepare for internships.
+I'm a computer science and economics student trying to build skills and prepare for internships.
 
 note to self: remember to have fun
 
