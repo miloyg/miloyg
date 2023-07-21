@@ -1,7 +1,5 @@
 ### Hi this is Milo
-I'm a computer science and economics student trying to build skills and prepare for internships.
-
-note to self: remember to have fun
+I'm a computer science and economics student trying to build skills and gain experience
 
 <!--
 **miloyg/miloyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
